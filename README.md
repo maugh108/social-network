@@ -20,5 +20,5 @@ CUANDO pruebo las rutas POST y DELETE de la API en Insomnia
 ENTONCES puedo crear y eliminar con éxito reacciones a pensamientos y agregar y eliminar amigos a la lista de amigos de un usuario
 
 * Repositorio: https://github.com/maugh108/social-network
-* Video: 
+* Video: https://github.com/maugh108/social-network
 
